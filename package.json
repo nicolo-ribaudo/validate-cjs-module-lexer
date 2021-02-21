@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@babel/helper-fixtures": "^7.12.13",
-    "cjs-module-lexer": "^1.0.0",
-    "es-module-lexer": "^0.4.0"
+    "@babel/parser": "^7.12.17",
+    "@babel/types": "^7.12.17",
+    "cjs-module-lexer": "^1.0.0"
   }
 }
